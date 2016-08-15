@@ -6,9 +6,9 @@ color:
   saturation: 0.3072287642862648
   rhythmicContrast: 0.44031133805401623
   brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#27A7FF'
-    - '#949494'
-    - '#414141'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: EFPE Group
